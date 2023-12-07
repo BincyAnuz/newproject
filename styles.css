@@ -1,0 +1,52 @@
+.image-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center ;
+    margin-top: 0;
+
+}
+
+
+
+.sign-up{
+    
+    width:300px;
+    padding:20px;
+    margin: 8% auto 0;
+    
+}
+.or{
+    text-align: center;
+}
+.input-box{
+    display:flex;
+    border-radius: 20px;
+    padding:10px;
+    margin:10px 0;
+    width:100%;
+    border:1px solid;
+    outline:none;
+    text-align: center;
+
+}
+.Account{
+    border-color: rgba(0, 0, 0, 0);
+     background-color: rgb(29, 155, 240);
+     display:flex;
+    border-radius: 20px;
+    padding:10px;
+    margin:10px 0;
+    width:100%;
+    outline:none;
+}
+.sign{
+    display:flex;
+    border-radius: 20px;
+    padding:10px;
+    margin:10px 0;
+    width:100%;
+    border:1px solid;
+    outline:none;
+    text-align: center;
+    color:rgb(29, 155, 240);
+}
